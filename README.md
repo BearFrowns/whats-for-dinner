@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # What's For Dinner?
 ### FE1 Solo Challenge
 <img width="973" src="Screen Shot 2020-08-15 at 2.27.04 PM.png">
@@ -131,3 +132,7 @@ _shown above_
 
 **Iteration 4**
 <img width="973"  src="Screen Shot 2020-08-15 at 2.42.58 PM.png">
+=======
+# whats-for-dinner
+Solo Project
+>>>>>>> 148432c087d944b9bc23f6f93c95820baec6a5bf
